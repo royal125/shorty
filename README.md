@@ -56,13 +56,7 @@ For this challenge i learned:
 - how to deal with APIs.
 - Improve my responsive design skills.
 
-### Useful resources
-
-- [Article helped me to change color of `svg` image on hover](<https://stackoverflow.com/questions/42966641/how-to-transform-black-into-any-given-color-using-only-css-filters/43960991#:~:text=produces%20rgb(20%2C11%2C112)-,Demo,-%22use%20strict%22%3B%0A%0Aclass>)
 
 ## Author
 
-- Website - Well I haven't made my portfolio yet, but gonna make it soon.
-- Github - [@FedLover](https://github.com/MohamedAridah)
-- Codepen - [@FedLover](https://codepen.io/FedLover)
-- Frontend Mentor - [@mo](https://www.frontendmentor.io/profile/MohamedAridah)
+Telegram @devil_0005
